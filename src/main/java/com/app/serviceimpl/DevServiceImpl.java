@@ -13,7 +13,7 @@ public class DevServiceImpl implements IServiceApp{
 	@Override
 	public void sevice() {
 		// TODO Auto-generated method stub
-		System.out.println("from default runnerhjhbhbj");
+		System.out.println("from default runner");
 		
 	}
 
